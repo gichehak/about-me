@@ -1,0 +1,35 @@
+body{
+  text-align: center;
+}
+.profilepic img{
+  border-radius: 50%;
+}
+
+.profilejpg{
+  max-width: 100%;
+  height: auto;
+}
+.icons{
+  display: block;
+  font-family: FontAwesome;
+}
+.img-fluid{
+  width: 200px;
+  height: 200px;
+}
+
+li{
+  list-style-type: none;
+}
+.list-inline-item{
+  display: inline-block;
+
+}
+#portfolio{
+  z-index: 2;
+}
+.img-fluid{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
